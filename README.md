@@ -30,7 +30,8 @@ Or install it yourself as:
 
     Bazaar.heroku
     => "inquisitive-cavern-6617"
-
+    => "jubilant-sunset-9301"
+    => "frightened-geyser-4542"
 
     Bazaar.adj
     => "Javelin"

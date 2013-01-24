@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Bazaar::VERSION
   gem.authors       = ["Raymond Chan"]
   gem.email         = ["raycchan@gmail.com"]
-  gem.description   = %q{Bazaar}
+  gem.description   = %q{Random item and Heroku-ish name generator.}
   gem.summary       = %q{Bazaar is a random item and Heroku-ish name generator.}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/raycchan/bazaar"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
