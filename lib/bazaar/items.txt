@@ -1,0 +1,10 @@
+Table
+Chair
+Bike
+Pencil
+Helmet
+Phone
+Guitar
+Mirror
+Magnet
+Pen
