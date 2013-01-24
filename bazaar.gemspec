@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Raymond Chan"]
   gem.email         = ["raycchan@gmail.com"]
   gem.description   = %q{Bazaar}
-  gem.summary       = %q{Bazaar is a random item generator.}
+  gem.summary       = %q{Bazaar is a random item and Heroku-ish name generator.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)

@@ -1,6 +1,6 @@
 # Bazaar
 
-Bazaar is a random item generator.
+Bazaar is a random item and Heroku-ish name generator.
 
 ## Installation
 
@@ -18,8 +18,29 @@ Or install it yourself as:
 
 ## Usage
 
+    Bazaar.object
+    => "Dirty rubberband"
+    => "Unusual pillow"
+    => "Slippery toothpaste"
+
+    Bazaar.super_object
+    => "Unwavering foliage"
+    => "Tranquil snowflake"
+    => "Exuberant drylands"
+
+    Bazaar.heroku
+    => "inquisitive-cavern-6617"
+
+
+    Bazaar.adj
+    => "Javelin"
     Bazaar.item
-    => "Bike"
+    => "Colossal"
+    Bazaar.super_adj
+    => "Limitless"
+    Bazaar.super_item
+    => "Lagoon"
+
 
 ## Contributing
 

@@ -3,16 +3,16 @@ arrow
 axe
 balloon
 baseball
-bath tub
+bathtub
 bible
 bike
 bikini
 bleach
 blouse
-blow dryer
+blowdryer
 book
 bookmark
-boom box
+boombox
 bottle cap
 button
 candle
@@ -24,7 +24,7 @@ cha
 chainmail
 chalk
 charger
-check book
+checkbook
 clarinet
 clay pot
 clock
@@ -42,22 +42,22 @@ dollar bill
 drum
 eraser
 eye liner
-face wash
+facewash
 flag
 flowers
 flute
 fork
 gel
 glasses
-glow stick
+glowstick
 grid paper
-hair tie
+hairtie
 hanger
 hat
 helmet
-ice cube
+icecube
 javelin
-key chain
+keychain
 kilt
 kite
 knife
@@ -70,21 +70,20 @@ mallet
 map
 microphone
 model car
-mouse pad
+mousepad
 nail
 needle
 outlet
 paint brush
 passport
 pencil
-pepper spray
+pepperspray
 photo album
 piano
 picture frame
 piggy bank
 pillow
 pool stick
-pop can
 puddle
 quilt
 radio
@@ -92,22 +91,21 @@ receipt
 remote control
 rock
 rope
-rubber band
+rubberband
 rubber duck
 rug
-sand paper
+sandpaper
 scissors
-scotch tape
+scotchtape
 screw
-seat belt
+seatbelt
 sharpie
 shield
-shoe lace
+shoelace
 shovel
-sketch pad
+sketchpad
 slipper
 soap
-speaker
 speakers
 spear
 sponge
@@ -115,17 +113,16 @@ spoon
 sticky note
 stockings
 stone
-stop sign
 suitcase
-sun glasses
+sunglasses
 thermometer
 thread
 tire
-tissue box
+tissuebox
 tobacco
-tooth paste
-tooth pick
+toothpaste
+toothpick
 vase
 wheelbarrow
-white out
+whiteout
 zipper
