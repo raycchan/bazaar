@@ -34,9 +34,9 @@ Or install it yourself as:
     => "frightened-geyser-4542"
 
     Bazaar.adj
-    => "Javelin"
-    Bazaar.item
     => "Colossal"
+    Bazaar.item
+    => "Javelin"
     Bazaar.super_adj
     => "Limitless"
     Bazaar.super_item
