@@ -46,6 +46,7 @@ ocean
 peak
 pebble
 pine
+plateau
 pond
 reef
 reserve
